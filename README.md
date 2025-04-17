@@ -8,5 +8,5 @@ Use CSS Grid and make the layout adapt to tablets and phones.
 - 3: Create a responsive image-text split section (50-50) using Grid or Flexbox.
 On mobile, stack the image above the text.
 
-- 4. Make a card layout for displaying 3 testimonials in a row.
+- 4: Make a card layout for displaying 3 testimonials in a row.
 Convert to a vertical stack on smaller devices.
